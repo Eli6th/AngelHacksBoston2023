@@ -50,7 +50,8 @@ def main():
         character_classes.NPC(['./sprites/sidesock5-1.png', './sprites/sidesock5-2.png'], 400, 420),
         character_classes.NPC(['./sprites/sidesock6-1.png', './sprites/sidesock6-2.png'], 464, 326),
         character_classes.NPC(['./sprites/sidesock7-1.png', './sprites/sidesock7-2.png'], 500, 320),
-        character_classes.NPC(['./sprites/sidesock8-1.png', './sprites/sidesock8-2.png'], 550, 220)
+        character_classes.NPC(['./sprites/sidesock8-1.png', './sprites/sidesock8-2.png'], 550, 220),
+        character_classes.NPC(['./sprites/sidesock9-1.png', './sprites/sidesock9-2.png'], 550, 520)
     ]
 
     # Create dialogue instance
